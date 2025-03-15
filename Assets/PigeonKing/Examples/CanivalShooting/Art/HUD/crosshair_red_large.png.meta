@@ -53,7 +53,7 @@ TextureImporter:
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
-  spriteTessellationDetail: -1
+  spriteTessellationDetail: 1
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
@@ -96,12 +96,88 @@ TextureImporter:
   spriteSheet:
     serializedVersion: 2
     sprites: []
-    outline: []
+    outline:
+    - - {x: 4, y: -23}
+      - {x: 5, y: -22}
+      - {x: 8, y: -22}
+      - {x: 11, y: -21}
+      - {x: 12, y: -19}
+      - {x: 13, y: -19}
+      - {x: 19, y: -13}
+      - {x: 19, y: -12}
+      - {x: 21, y: -10}
+      - {x: 22, y: -4}
+      - {x: 25, y: -4}
+      - {x: 25, y: 4}
+      - {x: 22, y: 4}
+      - {x: 22, y: 7}
+      - {x: 19, y: 14}
+      - {x: 14, y: 19}
+      - {x: 7, y: 22}
+      - {x: 4, y: 22}
+      - {x: 4, y: 25}
+      - {x: -4, y: 25}
+      - {x: -4, y: 22}
+      - {x: -7, y: 22}
+      - {x: -14, y: 19}
+      - {x: -19, y: 14}
+      - {x: -22, y: 7}
+      - {x: -22, y: 4}
+      - {x: -25, y: 4}
+      - {x: -25, y: -4}
+      - {x: -22, y: -4}
+      - {x: -21, y: -10}
+      - {x: -19, y: -12}
+      - {x: -19, y: -13}
+      - {x: -13, y: -19}
+      - {x: -12, y: -19}
+      - {x: -8, y: -22}
+      - {x: -5, y: -22}
+      - {x: -4, y: -23}
+      - {x: -4, y: -25}
+      - {x: 4, y: -25}
+    - - {x: 4, y: -12}
+      - {x: 1, y: -9}
+      - {x: -1, y: -9}
+      - {x: -4, y: -12}
+      - {x: -3, y: -14}
+      - {x: -4, y: -13}
+      - {x: -8, y: -12}
+      - {x: -12, y: -8}
+      - {x: -13, y: -4}
+      - {x: -14, y: -3}
+      - {x: -12, y: -4}
+      - {x: -9, y: -1}
+      - {x: -9, y: 0}
+      - {x: -13, y: 4}
+      - {x: -13, y: 6}
+      - {x: -8, y: 11}
+      - {x: -5, y: 13}
+      - {x: -4, y: 13}
+      - {x: -4, y: 12}
+      - {x: -1, y: 9}
+      - {x: 1, y: 9}
+      - {x: 4, y: 12}
+      - {x: 4, y: 13}
+      - {x: 5, y: 13}
+      - {x: 8, y: 11}
+      - {x: 11, y: 8}
+      - {x: 13, y: 5}
+      - {x: 13, y: 4}
+      - {x: 9, y: 0}
+      - {x: 9, y: -1}
+      - {x: 12, y: -4}
+      - {x: 13, y: -4}
+      - {x: 13, y: -5}
+      - {x: 11, y: -8}
+      - {x: 8, y: -12}
+      - {x: 4, y: -13}
+      - {x: 3, y: -14}
     customData: 
     physicsShape: []
     bones: []
     spriteID: 5e97eb03825dee720800000000000000
-    internalID: 0
+    internalID: 1537655665
     vertices: []
     indices: 
     edges: []

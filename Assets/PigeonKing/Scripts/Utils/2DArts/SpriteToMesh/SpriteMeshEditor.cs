@@ -23,7 +23,7 @@ using UnityEditor;
 
 
 // original source is created by MadCUP, I Edit it to generate mesh and material file, and I moved it to the PigeonKingGames namespace for not to conflict with the original source.
-namespace PigeonKingGames.Steps
+namespace PigeonKingGames.Utils.SpriteToMesh
 {
     [CustomEditor(typeof(SpriteMesh))]
     public class SpriteMeshEditor : Editor

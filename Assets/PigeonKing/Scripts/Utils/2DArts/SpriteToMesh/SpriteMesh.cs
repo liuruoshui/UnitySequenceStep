@@ -24,7 +24,7 @@ using UnityEngine.Rendering;
 
 
 // original source is created by MadCUP, I Edit it to generate mesh and material file, and I moved it to the PigeonKingGames namespace for not to conflict with the original source.
-namespace PigeonKingGames.Steps
+namespace PigeonKingGames.Utils.SpriteToMesh
 {
     [ExecuteAlways]
     public class SpriteMesh : MonoBehaviour
