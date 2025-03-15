@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 344775336a2cf4c25bb13bb39e5ef759
+AssetOrigin:
+  serializedVersion: 1
+  productId: 292537
+  packageName: STM - Sprite To Mesh
+  packageVersion: 1.1
+  assetPath: Assets/STM - Sprite To Mesh/SpriteMesh.cs
+  uploadId: 683348
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
